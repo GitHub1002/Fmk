@@ -1,7 +1,7 @@
 # 校园点评
 
 #### 介绍
-校园优选个人项目
+校园点评个人项目
 
 #### 软件架构
 Spring Boot、Redis、Redisson、MyBatisPlus、Swagger2、Nginx、ElementUi 、Vue
