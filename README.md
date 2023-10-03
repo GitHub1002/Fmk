@@ -1,4 +1,4 @@
-# 校园优选
+# 校园点评
 ## 采用技术栈
 Nginx+SpringBoot+Redis+MySql+Vue+Swagger+Lombok+MyBatis-Plus+Hutool
 ## 项目描述
